@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="gravity-packages",
-    version="0.0.5",
+    version="0.0.6",
     author="Stratus_Test",
     description="a description for gravity packages",
     url="https://github.com/OrteipX/gravity-packages",
